@@ -1,1 +1,1 @@
-console.log('your code here')
+var fs = require('fs')
